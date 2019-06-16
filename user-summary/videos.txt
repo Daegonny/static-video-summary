@@ -1,0 +1,51 @@
+Video 	Name 	 							#Frames		Duration
+ v21 	The Great Web of Water, segment 01	  			3,279 		1:50
+ v22 	The Great Web of Water, segment 02	 			2,118 		1:11
+ v23 	The Great Web of Water, segment 07	 			1,745 		0:59
+ v24 	A New Horizon, segment 01 					1,806 		1:01
+ v25 	A New Horizon, segment 02 					1,797 		1:00
+ v26 	A New Horizon, segment 03 					6,249 		3:29
+ v27 	A New Horizon, segment 04 					3,192 		1:47
+ v28 	A New Horizon, segment 05 					3,561 		1:59
+ v29 	A New Horizon, segment 06 					1,944 		1:05
+ v30 	A New Horizon, segment 08 					1,815 		1:01
+ v31 	A New Horizon, segment 10 					2,517 		1:24
+ v32 	Take Pride in America, segment 01 				2,691 		1:30
+ v33 	Take Pride in America, segment 03 				3,261 		1:49
+ v34 	Digital Jewelry: Wearable Technology for Every Day Life 	4,204 		3:00
+ v35 	HCIL Symposium 2002 - Introduction, segment 01 			2,336 		1:18
+ v36 	Senses And Sensitivity, Introduct. to Lecture 1 presenter 	4,221 		2:20
+ v37 	Senses And Sensitivity, Introduct. to Lecture 2 		3,411 		1:53
+ v38 	Senses And Sensitivity, Introduct. to Lecture 3 presenter 	4,566 		2:32
+ v39 	Senses And Sensitivity, Introduct. to Lecture 4 presenter 	5,249 		2:55
+ v40 	Exotic Terrane, segment 01 					2,940 		1:38
+ v41 	Exotic Terrane, segment 02 					2,776 		1:32
+ v42 	Exotic Terrane, segment 03 					2,676 		1:29
+ v43 	Exotic Terrane, segment 04 					4,797 		2:40
+ v44 	Exotic Terrane, segment 06 					2,425 		1:21
+ v45 	Exotic Terrane, segment 08 					2,428 		1:21
+ v46 	America's New Frontier, segment 01 				3,591 		1:59
+ v47 	America's New Frontier, segment 03 				2,166 		1:12
+ v48 	America's New Frontier, segment 04 				3,705 		2:03
+ v49 	America's New Frontier, segment 07 				3,615 		2:00
+ v50 	America's New Frontier, segment 10 				4,830 		2:41
+ v51 	The Future of Energy Gases, segment 03 				2,934 		1:37
+ v52 	The Future of Energy Gases, segment 05 				3,615 		2:00
+ v53 	The Future of Energy Gases, segment 09 				1,884 		1:02
+ v54 	The Future of Energy Gases, segment 12 				2,886 		1:36
+ v55 	Oceanfloor Legacy, segment 01 					1,740 		0:58
+ v56 	Oceanfloor Legacy, segment 02 					2,325 		1:17
+ v57 	Oceanfloor Legacy, segment 04 					3,450 		1:55
+ v58 	Oceanfloor Legacy, segment 08 					3,186 		1:46
+ v59 	Oceanfloor Legacy, segment 09 					2,106 		1:10
+ v60 	The Voyage of the Lee, segment 05 				2,094 		1:09
+ v61 	The Voyage of the Lee, segment 15 				2,277 		1:15
+ v62 	The Voyage of the Lee, segment 16 				2,619 		1:27
+ v63 	Hurricane Force - A Coastal Perspective, segment 03 		2,310 		1:17
+ v64 	Hurricane Force - A Coastal Perspective, segment 04 		5,310 		2:57
+ v65 	Drift Ice as a Geologic Agent, segment 03 			2,742 		1:31
+ v66 	Drift Ice as a Geologic Agent, segment 05 			2,187 		1:12
+ v67 	Drift Ice as a Geologic Agent, segment 06 			2,425 		1:30
+ v68 	Drift Ice as a Geologic Agent, segment 07 			1,950 		1:05
+ v69 	Drift Ice as a Geologic Agent, segment 08 			3,618 		2:00
+ v70 	Drift Ice as a Geologic Agent, segment 10 			1,407 		0:46
