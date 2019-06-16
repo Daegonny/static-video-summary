@@ -117,7 +117,7 @@ def remove_similar(video_frames, threshold):
 ##########################################
 
 start = 21
-size_videos = 1
+size_videos = 50
 
 for video in range(size_videos):
     print("Video: "+str(video+start))
@@ -126,11 +126,6 @@ for video in range(size_videos):
     m_diffs = np.mean(diffs)
     s_diffs = np.std(diffs)
     t = m_diffs + s_diffs
-    plt.plot(diffs)
-    plt.axhline(y=t, color='r', linestyle='-')
-    plt.show()
     key_frames = get_key_frames(video_frames, diffs, t)
-    # print(len(key_frames))
     key_frames = remove_similar(key_frames, t)
-    # print(len(filtred_frames))
     save_frames(key_frames ,"../auto-summary/v"+str(video+start)+"/")
