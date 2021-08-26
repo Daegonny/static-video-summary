@@ -1,5 +1,5 @@
 # static-video-summary
-A tresholding method for buiding static video summaries
+A tresholding method for building static video summaries
 
 -> All implementation code can be found at the code directory.
 -> A small paper describing the method and its background is under paper directory.
